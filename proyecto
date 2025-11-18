@@ -1,0 +1,32 @@
+La metodología en cascada es especialmente beneficiosa cuando el cliente tiene requerimientos claros y fijos,
+y cuando el proyecto tiene un alcance manejable. Su enfoque estructurado y su énfasis en la documentación hacen
+que sea una opción sólida para asegurar que todas las fases del proyecto se realicen de manera ordenada y completa, 
+minimizando riesgos y facilitando la gestión del proyecto.
+La distribución de roles es fundamental para el éxito de este método, asegurando que cada miembro del equipo tenga 
+responsabilidades definidas. Las reuniones son clave para la comunicación y validación en cada fase del proceso, y los 
+productos generados sirven como base para el avance y la documentación completa del proyecto.
+Cada etapa del ciclo de vida del proyecto se completa antes de pasar a la siguiente, y el progreso es lineal.
+Recopilación de Requisitos:
+Descripción: En esta fase se identifican y documentan los requisitos del sistema a desarrollar. Se llevan a cabo entrevistas, encuestas y sesiones de trabajo con los interesados para entender sus necesidades.
+Objetivo: Definir claramente lo que se espera del sistema, evitando malentendidos más adelante.
+Producto final: Documento de Requisitos de Software (DRS).
+2. Diseño del Sistema
+Descripción: Esta etapa implica la traducción de los requisitos recolectados en un diseño técnico del sistema. Se especifican la arquitectura, base de datos, interfaces y componentes.
+Objetivo: Proporcionar una guía clara sobre cómo se implementará el software.
+Producto final: Documento de Diseño del Sistema (DDS), incluyendo diagramas y especificaciones técnicas.
+3. Implementación (Desarrollo)
+Descripción: Durante esta fase, el diseño se convierte en código. Los desarrolladores crean el software de acuerdo con las especificaciones del diseño.
+Objetivo: Construir el sistema funcional que cumpla con los requisitos definidos.
+Producto final: Código fuente del software y, a veces, documentación técnica relacionada.
+4. Pruebas (Testing)
+Descripción: Aquí se realiza la verificación y validación del software desarrollado. Se llevan a cabo diferentes tipos de pruebas (unitarias, integración, sistema) para asegurar que el software funcione correctamente y cumpla con los requisitos.
+Objetivo: Detectar errores y defectos en el software antes de su implementación.
+Producto final: Informe de Pruebas que documenta los resultados y defectos encontrados.
+5. Implementación y Despliegue
+Descripción: En esta etapa, el software se entrega al cliente y se implementa en el entorno de producción. Puede incluir la capacitación de usuarios finales en el uso del software.
+Objetivo: Asegurar que el sistema esté operativo y disponible para su uso.
+Producto final: Software desplegado, manuales de usuario y, en ocasiones, documentación de soporte.
+6. Mantenimiento
+Descripción: Esta fase abarca cualquier modificación, corrección de errores o actualización que sea necesaria después de la implementación. El mantenimiento asegura que el software siga funcionando correctamente y adaptándose a nuevas necesidades o entornos.
+Objetivo: Garantizar la operatividad continua del software y realizar mejoras según el feedback de los usuarios.
+Producto final: Actualizaciones de software, parches y documentación actualizada.
